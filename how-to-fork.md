@@ -6,6 +6,7 @@ Forking in Github\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
            git clone https://github.com/.../test.git
 
 3. Change directory in to cloned git
+
            cd test
 
 4. Create new files 
