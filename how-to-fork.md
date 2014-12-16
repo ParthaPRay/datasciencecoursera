@@ -5,9 +5,13 @@ Forking in Github\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
            git clone https://github.com/.../test.git
 
-3. Change directory in to cloned git
+2. Change directory in to cloned git
 
            cd test
+
+3. Upstream add to git
+
+           git remote add upstream https://github.com/.../test.git
 
 4. Create new files 
 
